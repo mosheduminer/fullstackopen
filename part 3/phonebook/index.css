@@ -1,0 +1,13 @@
+.add-notification {
+    border-color: green;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 10px;
+}
+
+.warning-notification {
+    border-color: red;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 10px;
+}
